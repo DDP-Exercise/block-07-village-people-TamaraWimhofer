@@ -23,7 +23,7 @@ import Village from "./class.village.js";
  *    Just add other files ot make it work.
  *    How? Find a way, or you will hang coming tuesday!
  *
- *    Wimhofer Tamara - 980-06-01
+ *    Wimhofer Tamara - 2026-06-01
  *  *******************************************************/
 
 
