@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="345f15bf-a926-4f0f-8cd4-829729b58ff3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/js/class.building.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/class.building.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/class.citizen.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/class.citizen.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/class.nobleBuilding.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/class.nobleBuilding.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/class.nobleCitizen.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/class.nobleCitizen.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/class.village.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/class.village.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="3EWsvIOSSQz2hm0lZ7saSbKI3PR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JavaScript Debug.index.html.executor": "Run",
+    "Node.js.class.building.js.executor": "Run",
+    "Node.js.class.nobleCitizen.js.executor": "Run",
+    "Node.js.class.village.js.executor": "Run",
+    "Node.js.main.js.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "junie.onboarding.icon.badge.shown": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-WS-252.26830.93" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="345f15bf-a926-4f0f-8cd4-829729b58ff3" name="Changes" comment="" />
+      <created>1780305888646</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1780305888646</updated>
+      <workItem from="1780305890317" duration="9569000" />
+      <workItem from="1781453055364" duration="1046000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
